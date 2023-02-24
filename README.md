@@ -1,6 +1,6 @@
-## Hi there 👋
+## ¡Hola a todos! 👋
 
-### Mi nombre es Jhoan Aristizabal , y soy estudiante de Ingenieria de Sistemas 💻.
+#### Mi nombre es Jhoan Aristizabal , y soy estudiante de Ingenieria de Sistemas 💻.
 
 <!--
 **JHE060297/JHE060297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
