@@ -9,8 +9,6 @@
 - SQL
 - Java
 - Python
-- Visual Studio Code
-- Terminal
 - Git y GitHub
 
 
