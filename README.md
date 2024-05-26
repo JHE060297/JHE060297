@@ -7,7 +7,6 @@
 - HTML
 - CSS
 - SQL
-- Java
 - Python
 - Git y GitHub
 
@@ -15,7 +14,6 @@
 ## 📫 Puedes encontrarme
 
 - [GitHub](https://github.com/JHE060297) 🖥️
-- [Twitter](https://twitter.com/JHE_0602) 🐦
 - [LinkedIn]() 💼
 
 
